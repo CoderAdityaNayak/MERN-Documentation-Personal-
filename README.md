@@ -10,6 +10,6 @@ MARINATION OF THE PROJECT 😂
 2. Create 2 subfolders 'frontend' and 'backend'
  3.  Proceed to your /backend by doing       ```cd backend```    
 4. Firstly, run `npm init -y ` to initialise ( create a package.json file)
-5. 
+5. Download neccessary modules = 'npm install express dotenv mongoose cors'
 Extra Info:
 1. Info: NPM stands for Node Package Manager.
