@@ -14,6 +14,6 @@ MARINATION OF THE PROJECT 😂
 6.
 
 
-#Extra Info
+### Extra Info
 1. Info: NPM stands for Node Package Manager.
 2. `npm install` can also be written as `npm i`
