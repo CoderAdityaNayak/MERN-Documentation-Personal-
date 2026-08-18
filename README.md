@@ -14,8 +14,8 @@ MARINATION OF THE PROJECT 😂
 
 ## Creating the BackEnd:
 1. in backend, create a file ( can be anything, .js) let's say server.js. \
-   `const express = require("express")
-const app = express()
+   `const express = require("express") \
+const app = express()\
 app.listen(3000, ()=> console.log("Server is running on the port 3000"))`
 
 
