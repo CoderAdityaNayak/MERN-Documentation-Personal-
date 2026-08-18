@@ -8,4 +8,5 @@ This is my personal MERN documentation which I use / learn from which I wrote wh
 MARINATION OF THE PROJECT 😂
 1. Create a new folder named "your project name"
 2. Create 2 subfolders 'frontend' and 'backend'
-```npm init -y```
+   Proceed to your /backend by doing   cd backend
+4. Firstly do ```npm init -y``` to intialise. 
