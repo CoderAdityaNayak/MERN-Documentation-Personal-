@@ -28,3 +28,4 @@ MARINATION OF THE PROJECT 😂
 ### Extra Info
 1. Info: NPM stands for Node Package Manager.
 2. `npm install` can also be written as `npm i`
+3. `--watch` asks the backend or server to refresh/restart your site as soon as there is change in your code. 
