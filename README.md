@@ -11,7 +11,12 @@ MARINATION OF THE PROJECT 😂
  3.  Proceed to your /backend by doing       ```cd backend```    
 4. Firstly, run `npm init -y ` to initialise ( create a package.json file)
 5. Download neccessary modules = `npm install express dotenv mongoose cors`
-6.
+
+## Creating the BackEnd:
+1. in backend, create a file ( can be anything, .js) let's say server.js. \
+   Server.js:```const express = require("express")
+       const app = express()
+       app.listen(3000, ()=> console.log("Server is running on the port 3000"))```
 
 
 ### Extra Info
