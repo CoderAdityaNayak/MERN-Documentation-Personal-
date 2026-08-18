@@ -18,11 +18,12 @@ MARINATION OF THE PROJECT 😂
    const express = require("express") 
    const app = express()
    app.listen(3000, ()=> console.log("Server is running on the port 3000"))```
-2. You can run it with node server.js. But To make it update instantly ( wrt changes in the code), \
+2. You can run it with `node server.js`. But To make it update instantly ( wrt changes in the code), \
    Proceed to *backend/package.json* and under 'scripts', you will have 'test'.  \
    Update test to :
-   `js
-   "dev": "node --watch server.js"`
+  ```json
+"dev": "node --watch server.js"
+```
 
 ### Extra Info
 1. Info: NPM stands for Node Package Manager.
