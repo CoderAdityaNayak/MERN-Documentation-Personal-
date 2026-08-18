@@ -9,4 +9,5 @@ MARINATION OF THE PROJECT 😂
 1. Create a new folder named "your project name"
 2. Create 2 subfolders 'frontend' and 'backend'
    \n Proceed to your /backend by doing       ```cd backend```    
-4. Firstly do ```npm init ``` to intialise. 
+4. Firstly do ```npm init ``` to intialise ( create a package.json file)
+Also, Info : NPM stands for Node Package Manager.
