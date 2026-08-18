@@ -11,6 +11,9 @@ MARINATION OF THE PROJECT 😂
  3.  Proceed to your /backend by doing       ```cd backend```    
 4. Firstly, run `npm init -y ` to initialise ( create a package.json file)
 5. Download neccessary modules = `npm install express dotenv mongoose cors`
-Extra Info:
+6.
+
+
+#Extra Info
 1. Info: NPM stands for Node Package Manager.
 2. `npm install` can also be written as `npm i`
