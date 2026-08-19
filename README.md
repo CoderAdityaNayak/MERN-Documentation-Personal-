@@ -30,10 +30,10 @@ and  type to:
 ```json
 "type": "module",
 ```
-4. `js
+4. ```js
    app.get("/hello", (req,res)=>{
     res.send("Hello Everyone ");
-});`
+}); ```
 Add the above before "app.listen...." and run your server. Then if you visit `http://localhost:5001/hello`, you must see "Hello Everyone".
 <img width="589" height="263" alt="image" src="https://github.com/user-attachments/assets/ea11e003-bcad-4038-92b5-c84be13a72d2" />
 
