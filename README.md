@@ -15,11 +15,11 @@ MARINATION OF THE PROJECT 😂
 ## Creating the BackEnd:
 0. Take a deep breath.
 1. in backend, create a folder called 'src' and create a file ( can be anything, .js) let's say server.js. \
-   So your structre should be src/server.js
+   So your structre should be `backend/src/server.js`
    ```js
    import express from "express"; 
    const app = express()
-   app.listen(3000, ()=> console.log("Server is running on the port 3000"))```
+   app.listen(5001, ()=> console.log("Server is running on the port 5001"))```
 3. You can run it with `node server.js`. But To make it update instantly ( wrt changes in the code), \
    Proceed to *backend/package.json* and under 'scripts', you will have 'test'.  \
    Update test to :
@@ -30,7 +30,12 @@ and  type to:
 ```json
 "type": "module",
 ```
-
+4. `js
+   app.get("/hello", (req,res)=>{
+    res.send("Hello Everyone ");
+});`
+Add the above before "app.listen...." and run your server. Then if you visit `http://localhost:5001/hello`, you must see "Hello Everyone".
+<img width="589" height="263" alt="image" src="https://github.com/user-attachments/assets/ea11e003-bcad-4038-92b5-c84be13a72d2" />
 
 ### Extra Info
 1. Info: NPM stands for Node Package Manager.
