@@ -13,7 +13,7 @@ MARINATION OF THE PROJECT 😂
 5. Download neccessary modules = `npm install express dotenv mongoose cors`
 
 ## Creating the BackEnd:
-0. 
+0. Take a deep breath.
 1. in backend, create a folder called 'src' and create a file ( can be anything, .js) let's say server.js. \
    So your structre should be src/server.js
    ```js
