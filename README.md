@@ -40,4 +40,4 @@ Add the above before "app.listen...." and run your server. Then if you visit `ht
 ### Extra Info
 1. Info: NPM stands for Node Package Manager.
 2. `npm install` can also be written as `npm i`
-3. `--watch` asks the backend or server to refresh/restart your site as soon as there is change in your code. 
+3. `--watch` asks the backend or server to refresh/restart your site as soon as there is change in your code. We can also use the package `npx nodemon server.js`
