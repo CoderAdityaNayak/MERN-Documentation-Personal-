@@ -43,5 +43,8 @@ Add the above before "app.listen...." and run your server. Then if you visit `ht
 3. `--watch` asks the backend or server to refresh/restart your site as soon as there is change in your code. We can also use the package `npx nodemon server.js`
 
 # React Side (frontend)
-You can create it using `json 
-npm create vite@latest frontend`
+You can create it using 
+```json
+npm create vite@latest frontend
+```
+`Y>REACT>JAVASCRIPT>ESLINT>yes`
